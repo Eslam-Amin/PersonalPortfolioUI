@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.026f2f6d.css",
+    "main.js": "/static/js/main.039f5503.js",
+    "static/media/programmer.png": "/static/media/programmer.c727d075e92ad38a1903.png",
+    "static/media/cSharp.png": "/static/media/cSharp.456d41f630085700b5d8.png",
+    "static/media/JavaScript.png": "/static/media/JavaScript.166865dacb77d214f485.png",
+    "static/media/github.png": "/static/media/github.910e721b832ddd364622.png",
+    "static/media/LinkedIn.png": "/static/media/LinkedIn.6c49bfa6096a24e64e9e.png",
+    "static/media/database.png": "/static/media/database.ecd2ef5cad9cf7218f5f.png",
+    "static/media/mongoDB.png": "/static/media/mongoDB.c964002ecef4971216d0.png",
+    "static/media/express.jpg": "/static/media/express.9806598dcfd4cb871b7e.jpg",
+    "static/media/HackerRank.png": "/static/media/HackerRank.eab675a51239a438321a.png",
+    "static/media/CSS.3.svg": "/static/media/CSS.3.4aee21f25f7e14351003f8dd57e2d4f0.svg",
+    "static/media/Node.js.svg": "/static/media/Node.js.dd47e26ed1d7dddf018e5cbffc40f76d.svg",
+    "static/media/Bootstrap.svg": "/static/media/Bootstrap.3a162f65200426203695ee878e6b62fb.svg",
+    "static/media/HTML5_logo_and_wordmark.svg": "/static/media/HTML5_logo_and_wordmark.aff8a9cb398fc75e4f21dab1ba1e097e.svg",
+    "index.html": "/index.html",
+    "static/media/React.svg": "/static/media/React.928f956d9c8ebcffb98a8e917154a81a.svg",
+    "main.026f2f6d.css.map": "/static/css/main.026f2f6d.css.map",
+    "main.039f5503.js.map": "/static/js/main.039f5503.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.026f2f6d.css",
+    "static/js/main.039f5503.js"
+  ]
+}
