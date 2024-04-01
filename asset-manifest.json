@@ -1,9 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.f846c4cd.css",
-    "main.js": "/static/js/main.c5333035.js",
+    "main.css": "/static/css/main.e88227d5.css",
+    "main.js": "/static/js/main.c54b2268.js",
+    "static/media/jsDeveloper.png": "/static/media/jsDeveloper.c072d5924cd3a48937f9.png",
+    "static/media/MERN.png": "/static/media/MERN.f47b2ff1a85acc1bacd5.png",
+    "static/media/FrontEnd.png": "/static/media/FrontEnd.ff0b9ee93f031843bb12.png",
+    "static/media/cleanCode.png": "/static/media/cleanCode.c8290c28a87f0b91e6af.png",
+    "static/media/dbFundamentals.png": "/static/media/dbFundamentals.8bc44c29a775549717d1.png",
+    "static/media/introToMongoDB.png": "/static/media/introToMongoDB.6ff123e8a5c91bc41507.png",
+    "static/media/react.png": "/static/media/react.eeb17082a62f30f71216.png",
     "static/media/programmer.png": "/static/media/programmer.c727d075e92ad38a1903.png",
+    "static/media/sql.png": "/static/media/sql.ae4eb410b4fafcaa19b8.png",
     "static/media/cSharp.png": "/static/media/cSharp.456d41f630085700b5d8.png",
+    "static/media/professionalWebDevelopment.png": "/static/media/professionalWebDevelopment.aab3ece97d6eb9b1e8da.png",
     "static/media/JavaScript.png": "/static/media/JavaScript.166865dacb77d214f485.png",
     "static/media/github.png": "/static/media/github.910e721b832ddd364622.png",
     "static/media/LinkedIn.png": "/static/media/LinkedIn.6c49bfa6096a24e64e9e.png",
@@ -17,11 +26,11 @@
     "static/media/HTML5_logo_and_wordmark.svg": "/static/media/HTML5_logo_and_wordmark.aff8a9cb398fc75e4f21dab1ba1e097e.svg",
     "index.html": "/index.html",
     "static/media/React.svg": "/static/media/React.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "main.f846c4cd.css.map": "/static/css/main.f846c4cd.css.map",
-    "main.c5333035.js.map": "/static/js/main.c5333035.js.map"
+    "main.e88227d5.css.map": "/static/css/main.e88227d5.css.map",
+    "main.c54b2268.js.map": "/static/js/main.c54b2268.js.map"
   },
   "entrypoints": [
-    "static/css/main.f846c4cd.css",
-    "static/js/main.c5333035.js"
+    "static/css/main.e88227d5.css",
+    "static/js/main.c54b2268.js"
   ]
 }
