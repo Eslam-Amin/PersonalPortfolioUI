@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.44b3468f.css",
-    "main.js": "/static/js/main.a5b1381b.js",
+    "main.css": "/static/css/main.e03177b6.css",
+    "main.js": "/static/js/main.018c9bdf.js",
     "static/media/jsDeveloper.png": "/static/media/jsDeveloper.c072d5924cd3a48937f9.png",
     "static/media/MERN.png": "/static/media/MERN.f47b2ff1a85acc1bacd5.png",
     "static/media/FrontEnd.png": "/static/media/FrontEnd.ff0b9ee93f031843bb12.png",
@@ -12,7 +12,7 @@
     "static/media/programmer.png": "/static/media/programmer.c727d075e92ad38a1903.png",
     "static/media/sql.png": "/static/media/sql.ae4eb410b4fafcaa19b8.png",
     "static/media/cSharp.png": "/static/media/cSharp.456d41f630085700b5d8.png",
-    "static/media/professionalWebDevelopment.png": "/static/media/professionalWebDevelopment.aab3ece97d6eb9b1e8da.png",
+    "static/media/professionalWebDevelopment.png": "/static/media/professionalWebDevelopment.54b29d096967ad473b7f.png",
     "static/media/JavaScript.png": "/static/media/JavaScript.166865dacb77d214f485.png",
     "static/media/github.png": "/static/media/github.910e721b832ddd364622.png",
     "static/media/LinkedIn.png": "/static/media/LinkedIn.6c49bfa6096a24e64e9e.png",
@@ -26,11 +26,11 @@
     "static/media/HTML5_logo_and_wordmark.svg": "/static/media/HTML5_logo_and_wordmark.aff8a9cb398fc75e4f21dab1ba1e097e.svg",
     "index.html": "/index.html",
     "static/media/React.svg": "/static/media/React.928f956d9c8ebcffb98a8e917154a81a.svg",
-    "main.44b3468f.css.map": "/static/css/main.44b3468f.css.map",
-    "main.a5b1381b.js.map": "/static/js/main.a5b1381b.js.map"
+    "main.e03177b6.css.map": "/static/css/main.e03177b6.css.map",
+    "main.018c9bdf.js.map": "/static/js/main.018c9bdf.js.map"
   },
   "entrypoints": [
-    "static/css/main.44b3468f.css",
-    "static/js/main.a5b1381b.js"
+    "static/css/main.e03177b6.css",
+    "static/js/main.018c9bdf.js"
   ]
 }
