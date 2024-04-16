@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.78afb7ef.css",
-    "main.js": "/static/js/main.784523e1.js",
+    "main.js": "/static/js/main.9f74cc89.js",
     "static/media/jsDeveloper.png": "/static/media/jsDeveloper.c072d5924cd3a48937f9.png",
     "static/media/MERN.png": "/static/media/MERN.f47b2ff1a85acc1bacd5.png",
     "static/media/FrontEnd.png": "/static/media/FrontEnd.ff0b9ee93f031843bb12.png",
@@ -9,7 +9,6 @@
     "static/media/dbFundamentals.png": "/static/media/dbFundamentals.8bc44c29a775549717d1.png",
     "static/media/introToMongoDB.png": "/static/media/introToMongoDB.6ff123e8a5c91bc41507.png",
     "static/media/react.png": "/static/media/react.eeb17082a62f30f71216.png",
-    "static/media/programmer.png": "/static/media/programmer.c727d075e92ad38a1903.png",
     "static/media/sql.png": "/static/media/sql.ae4eb410b4fafcaa19b8.png",
     "static/media/cSharp.png": "/static/media/cSharp.456d41f630085700b5d8.png",
     "static/media/professionalWebDevelopment.png": "/static/media/professionalWebDevelopment.54b29d096967ad473b7f.png",
@@ -27,10 +26,10 @@
     "index.html": "/index.html",
     "static/media/React.svg": "/static/media/React.928f956d9c8ebcffb98a8e917154a81a.svg",
     "main.78afb7ef.css.map": "/static/css/main.78afb7ef.css.map",
-    "main.784523e1.js.map": "/static/js/main.784523e1.js.map"
+    "main.9f74cc89.js.map": "/static/js/main.9f74cc89.js.map"
   },
   "entrypoints": [
     "static/css/main.78afb7ef.css",
-    "static/js/main.784523e1.js"
+    "static/js/main.9f74cc89.js"
   ]
 }
